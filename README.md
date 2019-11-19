@@ -10,4 +10,4 @@ Is there anything new about Python in these notebooks that other authors have no
 
 You are free to download the notebooks and use it for self learning or for teaching others.
 
-
+Binder link to the notebooks: https://mybinder.org/v2/gh/madhan-babu/python_learning/626b3e722a4e18b19f9938d0453aec61fc67d9bb
